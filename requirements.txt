@@ -1,3 +1,4 @@
 langchain
 faiss-cpu
 pypdf
+PyPDF2
